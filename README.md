@@ -1,4 +1,4 @@
-## Soft-Drink-Sales-Analysis-Using-Excel
+## Soft Drink Sales Analysis Using Excel
 This project presents a comprehensive time series analysis of a fictitious soft drink company using Excel. The dataset covers monthly data from 
 January 2012 to September 2015 and includes sales volume, media advertising spends, pricing, promotional efforts, and competitor activity.
 The objective of the project is to uncover trends, seasonality, and key drivers of sales performance using statistical analysis techniques and Excel functions.
