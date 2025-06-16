@@ -10,16 +10,27 @@ Total Months: 45
 ## Data Dictionary
 
 Month-Month of activity
+
 SalesVol-Sales volume in litres
+
 TVGRP-TV Gross Rating Points
+
 Instoreads-Instore ad spend
+
 Outdoorads-Outdoor ad spend (billboards, hoardings, etc.)
+
 Promotions-Spend on discounts, offers
+
 Digitalads-Online advertising spend (Google, FB, etc.)
+
 Price-Avg. price per 10 litres
+
 Comp1TV-Competitor 1 TV ad spend
+
 Comp1NP-Competitor 1 Newspaper spend
+
 Comp1OOH-Competitor 1 Outdoor ad spend
+
 Comp2NP-Competitor 2 Newspaper spend
 
 ## Project Objectives
