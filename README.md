@@ -5,6 +5,7 @@ The objective of the project is to uncover trends, seasonality, and key drivers 
 
 ## Dataset Description
 Time Range: Jan 2012 – Sep 2015 
+
 Total Months: 45
 
 ## Data Dictionary
